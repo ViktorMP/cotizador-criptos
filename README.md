@@ -1,3 +1,2 @@
-# Cotizador-de-Criptomonedas
-Cotizador de Criptomonedas, uso de Fetch API. 
-Se uso async await y vanilla JS.
+Cotizador de criptomonedas. 
+Uso de Fetch API, Async Await y Vanilla JavaScript.
